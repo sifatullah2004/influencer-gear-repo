@@ -205,7 +205,7 @@ footer{
         flex-direction: column-reverse;
     }
     nav{
-        width: calc(100% - 14px);
+        width: calc(100% - 30px);
         margin: 0 auto;
     }
     nav > h4{
